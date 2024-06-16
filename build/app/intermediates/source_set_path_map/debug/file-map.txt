@@ -1,0 +1,12 @@
+com.example.testfile.app-core-1.6.0-0 /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3a2f4d98b3b6404c1fa5be33c6d33808/transformed/core-1.6.0/res
+com.example.testfile.app-jetified-window-1.0.0-beta04-1 /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/res
+com.example.testfile.app-jetified-window-java-1.0.0-beta04-2 /Users/radwanabirgmail.com/.gradle/caches/transforms-3/5b1943f6022f031876b1bcc4cd6f58e6/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.testfile.app-jetified-annotation-experimental-1.1.0-3 /Users/radwanabirgmail.com/.gradle/caches/transforms-3/f3b777a6e3202e8f617aa95a18bb10d0/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.testfile.app-debug-4 /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/res
+com.example.testfile.app-main-5 /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/res
+com.example.testfile.app-pngs-6 /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/build/app/generated/res/pngs/debug
+com.example.testfile.app-resValues-7 /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/build/app/generated/res/resValues/debug
+com.example.testfile.app-rs-8 /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/build/app/generated/res/rs/debug
+com.example.testfile.app-mergeDebugResources-9 /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.testfile.app-mergeDebugResources-10 /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.testfile.app-merged_res-11 /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/build/app/intermediates/merged_res/debug

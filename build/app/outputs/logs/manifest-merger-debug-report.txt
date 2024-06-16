@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:2:5-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3a2f4d98b3b6404c1fa5be33c6d33808/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3a2f4d98b3b6404c1fa5be33c6d33808/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/0a05b5506f1daa0d68ee2cbf61af4a78/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/0a05b5506f1daa0d68ee2cbf61af4a78/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3a2f4d98b3b6404c1fa5be33c6d33808/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/5b1943f6022f031876b1bcc4cd6f58e6/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/f0ec03ba31fb92c9a9f2c0e471d1f90f/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/9a884200da477e84f99c6691b5b3382c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/e7b820e15e424063304666d2df1d1566/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/47b9afb6e03f94a9e25218a160f8d833/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/c6b715fe7198b3a2dc32beeb9cda620c/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3a2f4d98b3b6404c1fa5be33c6d33808/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/034ada624ef3b2f6606c9a74c216365a/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3f9f3900aa73ac42b1d96d050fe6098b/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/0cb1ad8f068462a8b3e826f19f2a8def/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/e5456d63703a6d773df119978dd3827f/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/57f164fe22f8e9a9b92ecad3baa766cb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/05df7992b9d2cffa675110255b40ed64/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/0a05b5506f1daa0d68ee2cbf61af4a78/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/c8b7a190ffb7b7962a0eb8d97e53da38/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/f3b777a6e3202e8f617aa95a18bb10d0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:11-69
+queries
+ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:41:21-70
+data
+ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:42:19-48
+uses-sdk
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/5b1943f6022f031876b1bcc4cd6f58e6/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/5b1943f6022f031876b1bcc4cd6f58e6/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/f0ec03ba31fb92c9a9f2c0e471d1f90f/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/f0ec03ba31fb92c9a9f2c0e471d1f90f/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/9a884200da477e84f99c6691b5b3382c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/9a884200da477e84f99c6691b5b3382c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/e7b820e15e424063304666d2df1d1566/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/e7b820e15e424063304666d2df1d1566/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/47b9afb6e03f94a9e25218a160f8d833/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/47b9afb6e03f94a9e25218a160f8d833/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/c6b715fe7198b3a2dc32beeb9cda620c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/c6b715fe7198b3a2dc32beeb9cda620c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3a2f4d98b3b6404c1fa5be33c6d33808/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3a2f4d98b3b6404c1fa5be33c6d33808/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/034ada624ef3b2f6606c9a74c216365a/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/034ada624ef3b2f6606c9a74c216365a/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3f9f3900aa73ac42b1d96d050fe6098b/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3f9f3900aa73ac42b1d96d050fe6098b/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/0cb1ad8f068462a8b3e826f19f2a8def/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/0cb1ad8f068462a8b3e826f19f2a8def/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/e5456d63703a6d773df119978dd3827f/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/e5456d63703a6d773df119978dd3827f/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/57f164fe22f8e9a9b92ecad3baa766cb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/57f164fe22f8e9a9b92ecad3baa766cb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/05df7992b9d2cffa675110255b40ed64/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/05df7992b9d2cffa675110255b40ed64/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/0a05b5506f1daa0d68ee2cbf61af4a78/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/0a05b5506f1daa0d68ee2cbf61af4a78/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/c8b7a190ffb7b7962a0eb8d97e53da38/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/c8b7a190ffb7b7962a0eb8d97e53da38/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/f3b777a6e3202e8f617aa95a18bb10d0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/f3b777a6e3202e8f617aa95a18bb10d0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
