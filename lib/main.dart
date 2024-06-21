@@ -50,18 +50,19 @@ class MyApp extends StatelessWidget {
     double screenWidth = MediaQuery.of(context).size.width;
     double screenHeight = MediaQuery.of(context).size.height;
     return ScreenUtilInit(
-      designSize: Size(screenWidth, screenHeight),
+      designSize: Size(393, 851),
       minTextAdapt: true,
       splitScreenMode: true,
       builder: (_, child) {
         return GetMaterialApp(
           title: 'Flutter Demo',
+          debugShowCheckedModeBanner: false,
           theme: ThemeData(
-            colorScheme: ColorScheme.fromSeed(
-                seedColor: const Color.fromRGBO(235, 243, 241, 1)),
+            // colorScheme: ColorScheme.fromSeed(
+            //     seedColor: const Color.fromRGBO(235, 243, 241, 1)),
             useMaterial3: true,
           ),
-          home: LoginPage(),
+          home: loginPage(),
         );
       },
     );

@@ -17,6 +17,7 @@ INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android
 INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
 INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
 MERGED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [:path_provider_android] /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/5b1943f6022f031876b1bcc4cd6f58e6/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/f0ec03ba31fb92c9a9f2c0e471d1f90f/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -67,6 +68,8 @@ uses-sdk
 INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml
 INJECTED from /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/android/app/src/main/AndroidManifest.xml
+MERGED from [:path_provider_android] /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Volumes/Redwan Abir/Git Projects/Metro-Rail-Ticket-System/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/5b1943f6022f031876b1bcc4cd6f58e6/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/5b1943f6022f031876b1bcc4cd6f58e6/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/radwanabirgmail.com/.gradle/caches/transforms-3/3fc6841a625c2f6f798513da4342f64b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
