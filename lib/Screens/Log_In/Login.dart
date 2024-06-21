@@ -221,7 +221,7 @@ class _loginPageState extends State<loginPage> {
                           decoration: InputDecoration(
                             fillColor: Colors.green,
                             focusColor: Colors.green,
-                            prefixText: '+880 ',
+                            prefixText: '+88',
                             border: OutlineInputBorder(
                               borderRadius: BorderRadius.circular(8.r),
                             ),
