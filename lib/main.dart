@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
             //     seedColor: const Color.fromRGBO(235, 243, 241, 1)),
             useMaterial3: true,
           ),
-          home: loginPage(),
+          home: LoginPage(),
         );
       },
     );
