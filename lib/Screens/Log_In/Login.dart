@@ -3,10 +3,11 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:testfile/CustomButton.dart';
+import 'package:testfile/Components/CustomButton.dart';
 import 'package:testfile/Screens/Log_In/footer.dart';
+import 'package:testfile/Screens/OTP/otp.dart';
 import '../../Controllers/login_controller.dart';
-import '../../constent.dart';
+import '../../Components/constent.dart';
 import 'Login_TextField.dart';
 
 class LoginPage extends StatefulWidget {
@@ -98,7 +99,7 @@ class _LoginPageState extends State<LoginPage> {
                         child: CustomButton(
                           text: 'Get OTP',
                           onPressed: () {
-                            print('Landi Shenul ');
+                            Get.to(OtpPage());
                           },
                         ),
                       ),
